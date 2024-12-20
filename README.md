@@ -22,5 +22,26 @@ The primary goal of this project was to analyze and interpret sales data to iden
 ### Product and Market Performance:  
 - Ranked item types by **highest and lowest total sales**, providing insights into product performance.  
 - Explored how **order priority varies across regions**, aiding logistic strategies.  
+- Assessed variations in **units sold across countries** for effective market segmentation.
+  
+### Revenue and Profit Analysis:  
+- Identified **regions with the highest total sales revenue** to prioritize profitable markets.  
+- Determined the **country with the highest total profit**, a crucial metric for market performance evaluation.  
+
+### Cost and Pricing Insights:  
+- Calculated the **average unit price and unit cost** for each item type to assess profitability margins.  
+
+### Operational Analysis:  
+- Analyzed the impact of **sales channels on order priority distribution** to understand operational dynamics.  
+- Measured the **average order processing time** for each sales channel, highlighting areas for improvement.  
+
+### Product and Market Performance:  
+- Ranked item types by **highest and lowest total sales**, providing insights into product performance.  
+- Explored how **order priority varies across regions**, aiding logistic strategies.  
 - Assessed variations in **units sold across countries** for effective market segmentation.  
 
+### Trends and Correlations:  
+- Investigated **seasonal trends and patterns** in the sales data for accurate demand forecasting.  
+- Examined the **correlation between unit price and total profit** to optimize pricing strategies.  
+
+---
