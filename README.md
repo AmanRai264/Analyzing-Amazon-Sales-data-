@@ -67,3 +67,15 @@ This project is open for feedback and collaboration! If you have insights, sugge
 
 ---
 
+## 🏆 Acknowledgments  
+
+- Amazon for providing sales data (if it’s publicly sourced or hypothetical).  
+- Data science community for inspiring this project.  
+
+---
+
+## 🚀 Let’s Connect  
+
+I’m constantly exploring new ways to analyze and interpret data. Connect with me on **LinkedIn** to share ideas, collaborate, or discuss data analysis projects!  
+
+--- 
